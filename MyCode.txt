@@ -1,6 +1,0 @@
-//Hello this file contains my code
-
-void main()
-{
-	var luckynumber = 7;	
-}
